@@ -1,0 +1,242 @@
+* {
+   padding: 0;
+   margin: 0%;
+   box-sizing: border-box;
+}
+
+.container {
+   height: 3000px;
+   width: 90%;
+   background-color: rgb(255, 255, 255);
+   margin: 0 auto;
+   /* padd   */
+}
+
+
+.header_text {
+   font-size: 36px;
+   text-align: center;
+   /* margin-top: 20px; */
+   font-weight: bold;
+}
+
+.boxes {
+   height: 400px;
+   width: 100%;
+   /* background-color: rgb(208, 255, 0); */
+   display: flex;
+   justify-content: center;
+}
+
+.box {
+   height: 330px;
+   width: 300px;
+   /* background-color: blue; */
+   margin-top: 20px;
+   margin-right: 30px;
+}
+
+.box_img {
+   height: 280px;
+   width: 300px;
+}
+
+.infpric {
+   height: 50px;
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+}
+
+.pric {
+   margin-top: 15px;
+   margin-right: 10px;
+}
+
+
+
+.inf {
+   margin-left: 10px;
+   font-weight: 600;
+   color: rgb(50, 50, 50);
+}
+
+.cco {
+   display: flex;
+   justify-content: center;
+}
+
+.colr {
+   height: 30px;
+   width: 30px;
+   border-radius: 5px;
+
+   margin-right: 10px;
+   background: linear-gradient(65.81deg, #5E3928 -24.09%, #E4A16F 104.02%);
+}
+
+.colr2 {
+   height: 30px;
+   width: 30px;
+   border-radius: 5px;
+   /* background-color: aqua; */
+   margin-right: 10px;
+   background-color: #031412;
+}
+
+.colr3 {
+   height: 30px;
+   width: 30px;
+   border-radius: 5px;
+   background-color: #031412;
+   margin-bottom: 30px;
+}
+
+button {
+   height: 40px;
+   width: 150px;
+   background-color: brown;
+   background-image: url(./Rectangle\ 3.png);
+  display: block;
+  margin: 10px auto;
+  
+}
+
+.ds {
+   height: 50px;
+   background-color: blue;
+}
+
+.footer {
+   width: 100%;
+   height: 300px;
+   display: flex;
+   justify-content: space-between;
+   background-image: url(./bgfoot.jpg);
+   margin-bottom: 440px;
+   align-items: center;
+}
+
+.first {
+   margin-left: 100px;
+   /* margin-right: 300px; */
+}
+
+.cooper {
+   width: 200px;
+   height: 60px;
+   background-image: url(./image\ 3.png);
+   margin-bottom: 30px;
+
+}
+
+.prava {
+   height: 48px;
+   width: 230px;
+   background-image: url(./©\ 2021\ “Copper\ Pro”\ Все\ права\ защищенны.png);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   margin-bottom: 30px;
+}
+
+.ee a {
+   font-size: 20px;
+   font-weight: 400;
+   color: rgb(255, 255, 255);
+   /* background-color: #ff5100; */
+}
+
+.second {
+   margin-right: 50px;
+}
+
+.second h1 {
+   color: aliceblue;
+   font-size: 32px;
+   margin-bottom: 15px;
+}
+
+.second p {
+   font-size: 24px;
+   margin-bottom: 10px;
+   color: beige;
+   transition: 0.2s;
+}
+
+.second p:hover {
+   color: rgb(150, 150, 150);
+}
+
+.sdf {
+   margin-right: 100px;
+   display: flex;
+   justify-content: space-between;
+}
+
+
+.third h1 {
+   color: aliceblue;
+   font-size: 32px;
+   margin-bottom: 15px;
+}
+
+.third p {
+   font-size: 22px;
+   margin-bottom: 10px;
+   color: beige;
+   transition: 0.2s;
+}
+
+.third p:hover {
+   color: rgb(150, 150, 150);
+}
+
+.four {
+   margin-left: 50px;
+}
+
+
+
+.four h1 {
+   color: aliceblue;
+   font-size: 32px;
+   margin-bottom: 15px;
+}
+
+.four h2 {
+   color: beige;
+   font-size: 24px;
+   margin-bottom: 15px;
+}
+
+.four p {
+   font-size: 22px;
+   margin-bottom: 10px;
+   color: beige;
+   transition: 0.2s;
+}
+
+.four p:hover {
+   color: rgb(150, 150, 150);
+}
+
+.adres {
+   height: 70px;
+   width: 180px;
+
+   background-repeat: no-repeat;
+   background-size: 100%;
+
+}
+
+.iccons {
+   display: flex;
+
+}
+
+.igm {
+   height: 35px;
+   width: 35px;
+   margin-right: 15px;
+   margin-left: 10px;
+}
